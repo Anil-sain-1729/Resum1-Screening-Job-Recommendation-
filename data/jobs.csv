@@ -1,0 +1,6 @@
+job_id,job_title,company,job_description,required_skills
+J001,Junior Data Scientist,DataTech,Python pandas numpy SQL machine learning scikit-learn statistics data analysis matplotlib seaborn predictive modeling,"python,pandas,numpy,sql,machine learning,scikit-learn,statistics,data analysis,matplotlib,seaborn"
+J002,Machine Learning Engineer,AI Labs,Python machine learning scikit-learn XGBoost TensorFlow NLP pandas numpy model development,"python,machine learning,scikit-learn,xgboost,tensorflow,nlp,pandas,numpy"
+J003,Frontend Developer,WebWorks,HTML CSS JavaScript React Git responsive web design REST APIs,"html,css,javascript,react,git,rest api,responsive web design"
+J004,Python Backend Developer,CloudApps,Python Flask Django SQL PostgreSQL REST API Git Docker Linux backend development,"python,flask,django,sql,postgresql,rest api,git,docker,linux"
+J005,NLP Engineer Intern,LanguageAI,Python NLP machine learning scikit-learn TensorFlow pandas numpy text classification recommendation systems,"python,nlp,machine learning,scikit-learn,tensorflow,pandas,numpy,text classification"

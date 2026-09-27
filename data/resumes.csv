@@ -1,0 +1,7 @@
+resume_id,candidate_name,resume_text,experience_years
+R001,Candidate 1,Python developer with pandas numpy scikit-learn machine learning SQL data analysis matplotlib and Flask. Built customer churn prediction and data analytics projects.,2
+R002,Candidate 2,Frontend developer skilled in HTML CSS JavaScript React Git responsive web design and REST API integration.,2
+R003,Candidate 3,Data science student with Python pandas numpy SQL machine learning statistics seaborn matplotlib scikit-learn and XGBoost. Worked on predictive analytics projects.,1
+R004,Candidate 4,Backend developer using Python Flask Django SQL PostgreSQL REST API Git Docker and Linux.,3
+R005,Candidate 5,Java developer experienced in Java Spring Boot MySQL REST APIs Git and object oriented programming.,3
+R006,Candidate 6,Machine learning enthusiast with Python scikit-learn TensorFlow NLP pandas numpy and data visualization. Built text classification projects.,1

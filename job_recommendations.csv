@@ -1,0 +1,19 @@
+resume_id,candidate,rank,job_id,job_title,company,match_score
+R001,Candidate 1,1,J001,Junior Data Scientist,DataTech,31.73
+R001,Candidate 1,2,J002,Machine Learning Engineer,AI Labs,15.37
+R001,Candidate 1,3,J005,NLP Engineer Intern,LanguageAI,14.21
+R002,Candidate 2,1,J003,Frontend Developer,WebWorks,71.6
+R002,Candidate 2,2,J004,Python Backend Developer,CloudApps,10.61
+R002,Candidate 2,3,J005,NLP Engineer Intern,LanguageAI,0.0
+R003,Candidate 3,1,J001,Junior Data Scientist,DataTech,41.53
+R003,Candidate 3,2,J002,Machine Learning Engineer,AI Labs,24.09
+R003,Candidate 3,3,J005,NLP Engineer Intern,LanguageAI,14.88
+R004,Candidate 4,1,J004,Python Backend Developer,CloudApps,77.81
+R004,Candidate 4,2,J003,Frontend Developer,WebWorks,4.92
+R004,Candidate 4,3,J001,Junior Data Scientist,DataTech,3.37
+R005,Candidate 5,1,J003,Frontend Developer,WebWorks,12.2
+R005,Candidate 5,2,J004,Python Backend Developer,CloudApps,3.8
+R005,Candidate 5,3,J005,NLP Engineer Intern,LanguageAI,0.0
+R006,Candidate 6,1,J005,NLP Engineer Intern,LanguageAI,39.47
+R006,Candidate 6,2,J002,Machine Learning Engineer,AI Labs,33.79
+R006,Candidate 6,3,J001,Junior Data Scientist,DataTech,18.09
